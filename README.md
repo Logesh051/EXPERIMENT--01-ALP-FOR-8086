@@ -131,6 +131,62 @@ ret
 <img width="1920" height="1080" alt="Screenshot 2025-08-18 143833" src="https://github.com/user-attachments/assets/f831581f-0604-4cf7-abc8-2f70214e1b77" />
 
 
+## AND of 16 bit numbers ALP
+```
+org 100h
+
+mov ax,2a35h
+mov bx,5f35h
+
+and ax,bx
+
+hlt
+```
+## Output
+<img width="1118" height="801" alt="Screenshot 2025-08-21 133453" src="https://github.com/user-attachments/assets/bcd11a97-056f-4338-868c-885be59fce96" />
+
+## OR of 16 bit numbers ALP
+```
+org 100h
+
+mov ax,2a35h
+mov bx,5f35h
+
+or ax,bx
+
+hlt
+```
+## Output 
+<img width="1101" height="811" alt="Screenshot 2025-08-21 133600" src="https://github.com/user-attachments/assets/9888f810-39a8-40db-882c-492ffaed76a3" />
+
+## NOT of 16 bit numbers ALP
+```
+org 100h
+
+mov ax,2a35h
+
+not ax
+
+hlt
+```
+## Output 
+<img width="1089" height="807" alt="Screenshot 2025-08-21 133804" src="https://github.com/user-attachments/assets/45c4e083-ee05-4d6c-b903-8c0cf0240652" />
+
+## XOR of 16 bit numbers ALP
+```
+org 100h
+
+mov ax,2a35h
+mov bx,5f35h
+
+xor ax,bx
+
+hlt
+```
+## Output
+<img width="1113" height="815" alt="Screenshot 2025-08-21 133709" src="https://github.com/user-attachments/assets/e57f1779-b8ac-4760-9ef3-e4139680cf50" />
+
+
 ## Result :
  
 The execution ALP on fundamental arithmetic and logical operations is successfully completed
