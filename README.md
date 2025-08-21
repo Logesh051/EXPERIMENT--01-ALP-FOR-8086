@@ -1,7 +1,9 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : Logesh.N.A
-Roll no : 212223240078
-Date of experiment : 21.08.2025
+### Name : Logesh.N.A
+
+### Roll no : 212223240078
+
+### Date of experiment : 21.08.2025
 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
