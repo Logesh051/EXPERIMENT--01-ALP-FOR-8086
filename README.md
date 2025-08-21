@@ -101,6 +101,9 @@ ret
 ```
 ## Output 
 
+<img width="1920" height="1080" alt="Screenshot 2025-08-18 142109" src="https://github.com/user-attachments/assets/d3afd27b-b019-4574-8225-85fccd55460c" />
+
+
 ## Multiplication alp 
 
 ```
